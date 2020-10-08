@@ -19,7 +19,7 @@ h1 {
 }
 
 canvas{
-  margin-left: 8in;
+  margin-left: 2in;
 
 }
 p{
@@ -30,10 +30,7 @@ p{
   align-content: center;
 }
 p1 {
-  padding: 9in;
   font-size: 12pt
-  text-align: center;
-
 }
 
 canvas {
