@@ -33,12 +33,13 @@ function preload(){
 }
 
 function setup() {
-  createCanvas(600, 600);
-  background(220);
+  createCanvas(700, 700);
+  background(26, 26, 26);
   imageMode(CENTER);
 
 button = createButton("CLICK FOR YOUR ANWSER");
 button.mousePressed(buttonPressed);
+button.class("randomizerButton");
 
 }
 

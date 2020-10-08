@@ -1,0 +1,42 @@
+html, body {
+  margin: 4px;
+  padding: 0;
+
+}
+h1 {
+  font-family: Impact;
+  font-size: 35pt;
+  text-align: center;
+  background-color: white;
+}
+
+.randomizerButton {
+  align-items: center;
+  margin-left: 9in;
+  padding: 20px;
+  background-color: #242322;
+  color: #f5f5f5;
+}
+
+canvas{
+  margin-left: 8in;
+
+}
+p{
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  alignment: center;
+  align-content: center;
+}
+p1 {
+  padding: 9in;
+  font-size: 12pt
+  text-align: center;
+
+}
+
+canvas {
+  display: block;
+  h1 {text-align: center;}
+}
